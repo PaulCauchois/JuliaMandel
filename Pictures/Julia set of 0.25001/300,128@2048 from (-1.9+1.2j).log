@@ -1,0 +1,14 @@
+c = 0.25001
+Dimensions : 300 by 168 pixels
+Number of pixels = 50400
+Upper left corner = (-1.9+1.2j)
+Lower bound = (-0-0.2j)
+Color cycle length = 128
+Radius of convergence = 1.2071138522190044
+----------
+Time to create matrix = 0.023935556411743164 seconds
+Pixels per second = 2105653.99579652
+Time to compute set = 3.713075876235962 seconds
+Time per iteration = 0.0018130253301933408 seconds
+Pixels per second = 27798839.409830723
+____________________
